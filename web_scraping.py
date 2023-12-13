@@ -39,7 +39,12 @@ dataframe_pib = pd.DataFrame({
 
 
 dataframe_pib.to_csv('datos_pib_ecuador.csv', index=False, encoding='utf-8-sig')
-
 navegador.quit()
 
 print(dataframe_pib)
+
+#Integrantes
+#Fruto Borbor Melanie
+#Pila Montero Génesis
+#Ramírez Ancgundia Gabriela
+#Sánchez Anzoátegui Ariana
